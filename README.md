@@ -1,7 +1,7 @@
 ## Emo Stating Session Generating
 This Bot Can Generat String-Session For Telegram Bots.  This is Pyrogram and Telethon String Session Bot. Enjoy It
 
-<p align="center"><a href="https://github.com/RishBropromax/String-Session-Generating-Bot"><img src="https://telegra.ph/file/9bf179983e68a9b02b61d.jpg" width="200"></a></p>
+<p align="center"><a href="https://github.com/RishBropromax/String-Session-Generating-Bot"><img src="https://telegra.ph/file/9bf179983e68a9b02b61d.jpg"</a></p>
 
 #### Mandatory Vars
 
