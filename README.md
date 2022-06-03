@@ -14,7 +14,19 @@ This Bot Can Generat String-Session For Telegram Bots.  This is Pyrogram and Tel
 ## Functions
 
 > More features soon if suggested by you :)
+<br>
 
-## Support
+<h2 align="center">  🚀 Heroku Deployment </h2>
+<p align="center"><a href="https://heroku.com/deploy?template=https://github.com/RishBropromax/String-Session-Generating-Bot"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="200" height="35.45"/></a></p>
+
+ ## 🏷 Support
+
+Reach out to the maintainer at one of the following places:
+
+- Contact options listed on [this GitHub profile](https://github.com/RishBropromax))
+- Contact another options listed on [this GitHub profile](https://github.com/ImRishmika))
+- Contact another options listed on [Telegram](https://t.me/ImRishmika))
+
+
 
 
